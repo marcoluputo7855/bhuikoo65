@@ -1,0 +1,4 @@
+baseURL = "https://poemsdruyt.vercel.app"
+languageCode = "en-us"
+title = "Best Poems Beauty"
+theme = "hugo-theme-minos"
